@@ -1,5 +1,20 @@
-# android-tour-guid
+# Android Tour Guide
 
+## Who to use it 
+- 📅 12-Month Plan 
+- 🎥➡️🖥️ Watch, Then Apply  
+- ❓💬 Ask
+
+## How tour guides is different from roadmaps?
+- 📝 Details
+- 📚 Resources
+- 🕹️ Interactive
+
+## Who can use it?
+- 📱 Android Developers
+- 🍎 iOS Developers
+- 💙 Flutter Developers
+- 👩‍💻 Developers 
 
 ### Kotlin Fundamentals 
 [**https://www.youtube.com/watch?v=eXT1wglHAQo**](https://www.youtube.com/watch?v=eXT1wglHAQo)
