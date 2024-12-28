@@ -747,3 +747,15 @@
 - [Distill.pub](https://distill.pub/)
 - [Chuniversiteit Programming](https://chuniversiteit.nl/programming)
 
+### Medium
+- [Tomáš Repčík](https://medium.com/@tomas-repcik?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Pavlo Stavytskyi](https://medium.com/@morfly?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Ramadan Sayed](https://medium.com/@ramadan123sayed?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Jaewoong Eum](https://medium.com/@skydoves?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Paulina Sadowska](https://medium.com/@PaulinaSadowska?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Eric Elliott](https://medium.com/@_ericelliott?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Kemil Beltre](https://medium.com/@kemilbeltre?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Ian Lake](https://medium.com/@ianhlake?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Manuel Vivo](https://medium.com/@manuelvicnt?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Saurabh Pant](https://medium.com/@saurabhpant?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Rebecca Franks](https://medium.com/@riggaroo?source=user_following_page----------------------a98f5d75a78f---------------)
