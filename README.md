@@ -562,6 +562,7 @@
 - [Coroutines video 3](https://www.youtube.com/watch?v=hzTU0lh-TIw&list=WL&index=254)
 - [Coroutines video 4](https://www.youtube.com/watch?v=B8ppnjGPAGE)
 - [Kotlin Mutex Explained](https://medium.com/@michalankiersztajn/kotlin-mutex-explained-d2b72281cc42)
+
 ### CI/CD Setup
 - [Tivi GitHub](https://github.com/chrisbanes/tivi.git)
 - [Skydoves GitHub](https://github.com/skydoves%D9%84%D9%87%D9%81)
@@ -729,3 +730,15 @@
 - [AI YouTube 1](https://www.youtube.com/watch?v=6dy0A_6dhVQ)
 - [AI YouTube 2](https://www.youtube.com/watch?v=xY0DV9sjt2g)
 - [AI YouTube 3](https://www.youtube.com/watch?v=cETZkdpAhq8)
+
+### Blogs
+- [Maximiliano Contieri - Object-Oriented Design Series](https://maximilianocontieri.com/series/object-oriented-design)
+- [PL Coding Blog](https://pl-coding.com/blog)
+- [Medium - @101](https://medium.com/@101)
+- [Qunaieer](https://qunaieer.com/)
+- [Vadim Bulavin](https://www.vadimbulavin.com/)
+- [FIHM AI](https://fihm.ai/)
+- [NMTHGIAT](https://www.nmthgiat.com/)
+- [Distill.pub](https://distill.pub/)
+- [Chuniversiteit Programming](https://chuniversiteit.nl/programming)
+
