@@ -743,7 +743,6 @@
 - [AI YouTube 1](https://www.youtube.com/watch?v=6dy0A_6dhVQ)
 - [AI YouTube 2](https://www.youtube.com/watch?v=xY0DV9sjt2g)
 - [AI YouTube 3](https://www.youtube.com/watch?v=cETZkdpAhq8)
-
 - [Maximiliano Contieri - Object-Oriented Design Series](https://maximilianocontieri.com/series/object-oriented-design)
 - [PL Coding Blog](https://pl-coding.com/blog)
 - [Medium - @101](https://medium.com/@101)
