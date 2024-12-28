@@ -186,6 +186,8 @@
 - [Video 1](https://www.youtube.com/watch?v=ouBSPdvbzvw)
 - [Video 2](https://www.youtube.com/watch?v=vKbVrsMnhDc&list=WL&index=245&pp=gAQBiAQB)
 - [Video 3](https://www.youtube.com/watch?v=k32C2fDJNns)
+- [Video 4](https://www.linkedin.com/pulse/sdd-squad-driven-design-ahmed-adel-ismail-ljczf)
+- [Video 5](https://www.linkedin.com/pulse/sharing-data-across-multiple-mobile-squads-examples-ismail-mgdxf)
 
 ## MVI
 - [MVI Intro](https://www.youtube.com/watch?v=T-GYSvbQtSk)
