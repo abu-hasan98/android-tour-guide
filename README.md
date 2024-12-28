@@ -31,10 +31,13 @@
 - Level 1️⃣: Beginner 1
 - Level 2️⃣: Intermediate 🔧 
 - Level 3️⃣: Advanced 🚀 
+
+# Topics 
+[Clean Code](#Clean Code) 
   
 # General 
 
-## Clean code
+## Clean Code
 - [Interface Naming Conventions](https://androidessence.com/interface-naming-conventions)
 - [Kotlin: When? If-Else is Too Mainstream](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416)
 - [Clean Code 101: Meaningful Names and Functions](https://medium.com/coding-skills/clean-code-101-meaningful-names-and-functions-bf450456d90c)
