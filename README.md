@@ -94,6 +94,8 @@
 - [ReactConf Video on Jetpack Compose](https://www.youtube.com/watch?v=fHQ1WSx41CA&ab_channel=ReactConf)
 - [Jetpack Compose Video 6](https://www.youtube.com/watch?v=W3R_ETKMj0E)
 - [opinion jetpack compose needs a design system layer](https://proandroiddev.com/opinion-jetpack-compose-needs-a-design-system-layer-dc579fde79b2)
+- [understanding window insets in jetpack compose](https://proandroiddev.com/understanding-window-insets-in-jetpack-compose-46245b9ceffa)
+
 
 ## Clean code
 - [Interface Naming Conventions](https://androidessence.com/interface-naming-conventions)
