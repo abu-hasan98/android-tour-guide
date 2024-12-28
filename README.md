@@ -28,9 +28,9 @@
 - 👩‍💻 Developers 
 
 ### Hardness Level
-- Level 1: Beginner 🌱 –
-- Level 2: Intermediate 🔧 
-- Level 3: Advanced 🚀 
+- Level 1️⃣: Beginner 1
+- Level 2️⃣: Intermediate 🔧 
+- Level 3️⃣: Advanced 🚀 
 
 ### Kotlin Fundamentals 
 - [Kotlin Fundamentals Video 1](https://www.youtube.com/watch?v=eXT1wglHAQo)
