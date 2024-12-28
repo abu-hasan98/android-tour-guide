@@ -759,3 +759,23 @@
 - [Manuel Vivo](https://medium.com/@manuelvicnt?source=user_following_page----------------------a98f5d75a78f---------------)
 - [Saurabh Pant](https://medium.com/@saurabhpant?source=user_following_page----------------------a98f5d75a78f---------------)
 - [Rebecca Franks](https://medium.com/@riggaroo?source=user_following_page----------------------a98f5d75a78f---------------)
+
+### Usefull linkes
+- [Android Distribution Chart](https://composables.com/android-distribution-chart)
+- [Compose Unstyled GitHub Repository](https://github.com/composablehorizons/compose-unstyled/)
+
+### People to follow
+- Anjana Vakil:
+- Samriddhi Singh🇺🇸
+- John Ousterhout
+- Venkat Subramaniam
+- Jason Lengstorf
+- Márton Braun [JetBrains]
+- Daniel Moka
+- Kent Beck 
+- Jake Wharton
+- Aya ElGebeely 
+- Amanda Hinchman-Dominguez
+
+
+
