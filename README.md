@@ -8,11 +8,6 @@
 - Video Quality: High production standards.
 - Live Coding: Preference for live coding over slides.
 
-## Who to use it 
-- 📅 12-Month Plan 
-- 🎥➡️🖥️ Watch, Then Apply  
-- ❓💬 Ask
-
 ## Best android roadmap 
 - [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)
 
@@ -21,14 +16,24 @@
 - 📚 Resources
 - 🕹️ Interactive
 
+## Who to use it 
+- 📅 12-Month Plan 
+- 🎥➡️🖥️ Watch, Then Apply  
+- ❓💬 Ask
+
 ## Who can use it?
 - 📱 Android Developers
 - 🍎 iOS Developers
 - 💙 Flutter Developers
 - 👩‍💻 Developers 
 
+### Hardness Level
+- Level 1: Beginner 🌱 –
+- Level 2: Intermediate 🔧 
+- Level 3: Advanced 🚀 
+
 ### Kotlin Fundamentals 
-- [**Kotlin Fundamentals Video 1**](https://www.youtube.com/watch?v=eXT1wglHAQo)
+- [Kotlin Fundamentals Video 1](https://www.youtube.com/watch?v=eXT1wglHAQo)
 - [Kotlin Fundamentals Video 2](https://www.youtube.com/watch?v=CRrhmX32P-Y)
 - [Go with the Flow 3](https://www.droidcon.com/2023/07/20/go-with-the-flow-3/)
 - [Kotlin Education](https://kotlinlang.org/education/)
