@@ -679,6 +679,7 @@
 
 ### Releases
 - [Reldex Scoring App Release Cycles](https://www.droidcon.com/2024/07/17/reldex-scoring-the-efficiency-of-app-release-cycles/)
+
 ### Growth
 - [Growth YouTube 1](https://www.youtube.com/watch?v=Ll6KIN5fH10)
 - [Growth YouTube 2](https://www.youtube.com/watch?v=7SysdPLIjFg)
@@ -688,6 +689,10 @@
 - [Growth YouTube 6](https://www.youtube.com/watch?v=SI4TWu8Wnvg)
 - [Growth YouTube 7](https://www.youtube.com/watch?v=ufW364Pmldc)
 - [Most Common Developer Disease - CraftBetterSoftware](https://craftbettersoftware.com/p/the-most-common-developer-disease)
+- [YouTube - Simon Sinek: Why Good Leaders Make You Feel Safe](https://www.youtube.com/watch?v=Agrn2SNgMiw&list=PL68G6wbDBVghE3hyt3pGiaN9C_6pHNUc3&index=8)
+- [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=EYZmdYH39Uo&ab_channel=AbdullahAlmehmadi)
+- [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=o3Jizi7E4vQ&ab_channel=AbdullahAlmehmadi)
+- [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=vGj9mHD3C5E&list=PL6A416815049B9CA4&index=11&ab_channel=AbdullahAlmehmadi)
 
 ### Debatable
 - [Debate YouTube 1](https://youtu.be/krSkweSY8c0?feature=shared)
