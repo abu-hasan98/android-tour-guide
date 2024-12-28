@@ -493,16 +493,6 @@
 - [DDD and Clean Architecture Part 1](https://medium.com/@eng.hibrahem/ddd-and-clean-architecture-part-1-9a514b964395)
 - [DDD video](https://www.youtube.com/watch?v=wivgopk9FmM)
 
-### People to Follow
-- [Philipp Lackner](https://www.youtube.com/@PhilippLackner/videos)
-- [Kotlin YouTube Channel](https://www.youtube.com/@Kotlin)
-- [Pragma AR YouTube Channel](https://www.youtube.com/@pragma-ar)
-- [Android Worldwide YouTube Channel](https://www.youtube.com/@AndroidWorldwide/videos)
-- [Two Straws YouTube Channel](https://www.youtube.com/@twostraws)
-- [Martin Fowler](https://martinfowler.com)
-- [Ryan Harter](https://ryanharter.com/)
-- [Adam McNeilly](https://adammcneilly.com)
-
 ### Refactoring
 - [Refactoring video 1](https://www.youtube.com/watch?v=f2-6W8wxIj0)
 - [Refactoring video 2](https://www.youtube.com/watch?v=U4hIpntxWYc)
@@ -778,6 +768,15 @@
 - [Android Distribution Chart](https://composables.com/android-distribution-chart)
 - [Compose Unstyled GitHub Repository](https://github.com/composablehorizons/compose-unstyled/)
 
+### People to Follow
+- [Philipp Lackner](https://www.youtube.com/@PhilippLackner/videos)
+- [Kotlin YouTube Channel](https://www.youtube.com/@Kotlin)
+- [Pragma AR YouTube Channel](https://www.youtube.com/@pragma-ar)
+- [Android Worldwide YouTube Channel](https://www.youtube.com/@AndroidWorldwide/videos)
+- [Two Straws YouTube Channel](https://www.youtube.com/@twostraws)
+- [Martin Fowler](https://martinfowler.com)
+- [Ryan Harter](https://ryanharter.com/)
+- [Adam McNeilly](https://adammcneilly.com)
 - [Arnaud Giuliani - LinkedIn](https://fr.linkedin.com/in/arnaud-giuliani-0b2b73b)
 - [Thomas Kioko - LinkedIn](https://www.linkedin.com/in/thomas-kioko/)
 - [Rick Nout - LinkedIn](https://www.linkedin.com/in/ricknout/)
