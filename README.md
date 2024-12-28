@@ -746,6 +746,8 @@
 - [NMTHGIAT](https://www.nmthgiat.com/)
 - [Distill.pub](https://distill.pub/)
 - [Chuniversiteit Programming](https://chuniversiteit.nl/programming)
+- [Martin Fowler - Architecture](https://martinfowler.com/architecture/)
+- [Serrano FP](https://serranofp.com/)
 
 ### Medium
 - [Tomáš Repčík](https://medium.com/@tomas-repcik?source=user_following_page----------------------a98f5d75a78f---------------)
@@ -765,6 +767,9 @@
 - [Compose Unstyled GitHub Repository](https://github.com/composablehorizons/compose-unstyled/)
 
 ### People to follow
+- [Arnaud Giuliani - LinkedIn](https://fr.linkedin.com/in/arnaud-giuliani-0b2b73b)
+- [Thomas Kioko - LinkedIn](https://www.linkedin.com/in/thomas-kioko/)
+- [Rick Nout - LinkedIn](https://www.linkedin.com/in/ricknout/)
 - Anjana Vakil:
 - Samriddhi Singh🇺🇸
 - John Ousterhout
