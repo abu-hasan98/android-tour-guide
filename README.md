@@ -58,6 +58,7 @@
 - [Writing Kotlin Multiplatform Libraries for iOS](https://www.droidcon.com/2023/11/15/writing-kotlin-multiplatform-libraries-that-your-ios-teammates-are-gonna-love/)
 - [KMM Video 6](https://www.youtube.com/watch?v=V5EOsE_eJLE)
 - [KMM Video 7](https://www.youtube.com/watch?v=zDRlEp7r5i0)
+- [Multiplatform App Design with KMP and Compose](https://www.youtube.com/watch?v=EUTw0R7PpgY)
 
 ### Jetpack Compose
 - [Jetpack Compose Video 1](https://www.youtube.com/watch?v=nCd02GTBbIM)
