@@ -756,17 +756,17 @@
 - [Serrano FP](https://serranofp.com/)
 
 ## Medium
-- [Tomáš Repčík](https://medium.com/@tomas-repcik?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Pavlo Stavytskyi](https://medium.com/@morfly?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Ramadan Sayed](https://medium.com/@ramadan123sayed?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Jaewoong Eum](https://medium.com/@skydoves?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Paulina Sadowska](https://medium.com/@PaulinaSadowska?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Eric Elliott](https://medium.com/@_ericelliott?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Kemil Beltre](https://medium.com/@kemilbeltre?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Ian Lake](https://medium.com/@ianhlake?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Manuel Vivo](https://medium.com/@manuelvicnt?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Saurabh Pant](https://medium.com/@saurabhpant?source=user_following_page----------------------a98f5d75a78f---------------)
-- [Rebecca Franks](https://medium.com/@riggaroo?source=user_following_page----------------------a98f5d75a78f---------------)
+- [Tomáš Repčík](https://medium.com/@tomas-repcik)
+- [Pavlo Stavytskyi](https://medium.com/@morfly)
+- [Ramadan Sayed](https://medium.com/@ramadan123sayed)
+- [Jaewoong Eum](https://medium.com/@skydoves)
+- [Paulina Sadowska](https://medium.com/@PaulinaSadowska)
+- [Eric Elliott](https://medium.com/@_ericelliott)
+- [Kemil Beltre](https://medium.com/@kemilbeltre)
+- [Ian Lake](https://medium.com/@ianhlake)
+- [Manuel Vivo](https://medium.com/@manuelvicnt)
+- [Saurabh Pant](https://medium.com/@saurabhpant)
+- [Rebecca Franks](https://medium.com/@riggaroo)
 
 ## Usefull linkes
 - [Android Distribution Chart](https://composables.com/android-distribution-chart)
@@ -797,7 +797,7 @@
 - Amanda Hinchman-Dominguez
 
 ### Isalm systems 
-- [فقه العبادات](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lzi-Tm29aQvehom2LCnHZ25)
-- [فقه المعاملات](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LyrjQIwPQd-lYpoWjGU0Ibh)
-- [فقه الاسرة](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lx2OJqaZ6OjoQsgTx9hzfaL)
-- [فقه الحكم](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LxphJu5iO2l9kAe1nlJj859)
+- [L1](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lzi-Tm29aQvehom2LCnHZ25)
+- [l2](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LyrjQIwPQd-lYpoWjGU0Ibh)
+- [l3](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lx2OJqaZ6OjoQsgTx9hzfaL)
+- [l4](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LxphJu5iO2l9kAe1nlJj859)
