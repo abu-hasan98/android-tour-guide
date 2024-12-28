@@ -27,6 +27,11 @@
 - 💙 Flutter Developers
 - 👩‍💻 Developers 
 
+## Where to use it?
+- Peronal Growth
+- Team Building
+- Dev Mananager 
+
 ## Hardness Level
 - Level 1️⃣: Beginner 1
 - Level 2️⃣: Intermediate 🔧 
