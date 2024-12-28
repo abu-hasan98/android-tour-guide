@@ -795,3 +795,9 @@
 - Jake Wharton
 - Aya ElGebeely 
 - Amanda Hinchman-Dominguez
+
+### Isalm systems 
+- [فقه العبادات](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lzi-Tm29aQvehom2LCnHZ25)
+- [فقه المعاملات](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LyrjQIwPQd-lYpoWjGU0Ibh)
+- [فقه الاسرة](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lx2OJqaZ6OjoQsgTx9hzfaL)
+- [فقه الحكم](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LxphJu5iO2l9kAe1nlJj859)
