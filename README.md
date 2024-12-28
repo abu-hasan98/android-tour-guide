@@ -482,7 +482,6 @@
 ### Data Driven
 - [Kotlin and Domain-Driven Design: Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
 
-### Clean Code
 - [Clean Code video 1](https://www.youtube.com/watch?v=llGgO74uXMI&feature=youtu.be)
 - [Clean Code video 2](https://www.youtube.com/watch?v=LXG7EvbR5sE)
 - [Clean Code video 3](https://www.youtube.com/watch?v=WCFYFHz5tBU)
@@ -750,7 +749,6 @@
 - [AI YouTube 2](https://www.youtube.com/watch?v=xY0DV9sjt2g)
 - [AI YouTube 3](https://www.youtube.com/watch?v=cETZkdpAhq8)
 
-### Blogs
 - [Maximiliano Contieri - Object-Oriented Design Series](https://maximilianocontieri.com/series/object-oriented-design)
 - [PL Coding Blog](https://pl-coding.com/blog)
 - [Medium - @101](https://medium.com/@101)
@@ -780,7 +778,6 @@
 - [Android Distribution Chart](https://composables.com/android-distribution-chart)
 - [Compose Unstyled GitHub Repository](https://github.com/composablehorizons/compose-unstyled/)
 
-### People to follow
 - [Arnaud Giuliani - LinkedIn](https://fr.linkedin.com/in/arnaud-giuliani-0b2b73b)
 - [Thomas Kioko - LinkedIn](https://www.linkedin.com/in/thomas-kioko/)
 - [Rick Nout - LinkedIn](https://www.linkedin.com/in/ricknout/)
@@ -795,6 +792,3 @@
 - Jake Wharton
 - Aya ElGebeely 
 - Amanda Hinchman-Dominguez
-
-
-
