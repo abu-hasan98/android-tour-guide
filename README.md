@@ -33,8 +33,16 @@
 - Level 3️⃣: Advanced 🚀 
 
 # Topics 
-[Clean Code](#Clean-Code) 
-  
+- [Clean Code](#Clean-Code) 
+- [Refactoring](#Refactoring) 
+- [Object-Oriented Programming](#Object-Oriented-Programming)
+- [UI/UX](UI/UX)
+- [Design System Design](Design-System-Design)
+- [Version Control Git](Version-Control-Git)
+- [Reactive Programming](Reactive-Programming)
+- [Code Review](Code-Review)
+- [Functional Programming](Functional-Programming)
+
 # General 
 
 ## Clean Code
@@ -90,6 +98,7 @@
 - [Object-Oriented Programming Video 9](https://www.youtube.com/watch?v=q1qKv5TBaOA&ab_channel=Coderized)
 - [Object-Oriented Programming Vimeo Video](https://vimeo.com/69255635)
 - [Object-Oriented Programming Video 10](https://www.youtube.com/watch?v=hxGOiiR9ZKg&ab_channel=CodeAesthetic)
+
 ## Functional Programming
 - [Functional Programming Video 1](https://www.youtube.com/watch?v=Ed3t4WAe0Co)
 - [Functional Programming Video 2](https://www.youtube.com/watch?v=YdloRj0FpXk)
@@ -137,6 +146,7 @@
 - [You Can't Add Quality After the Fact](https://craftbettersoftware.com/p/you-cant-add-quality-after-the-fact)
 - [Code Review YouTube](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
 - [Clean Code video 1](https://www.youtube.com/watch?v=llGgO74uXMI&feature=youtu.be)
+
 ## Version Control Git
 - [YouTube: Git for Beginners](https://www.youtube.com/watch?v=hZS96dwKvt0)
 - [Learn Git Branching](https://learngitbranching.js.org)
@@ -165,9 +175,6 @@
 - [YouTube: Git Advanced Topics](https://www.youtube.com/watch?v=mZxhs4fBO2E)
 - [Craft Better Software: Git Branching Strategies](https://craftbettersoftware.com/p/the-best-git-branching-strategy)
 
-## HTTP/REST
-- [HTTP/REST Video](https://www.youtube.com/watch?v=uRwQKikomtE)
-
 ## System Design
 - [System Design Video 1](https://www.youtube.com/watch?v=BiTN9pG4xbM)
 - [System Design Video 2](https://www.youtube.com/watch?v=BdGVCsHj2vU)
@@ -179,11 +186,13 @@
 - [System Design Video 4](https://www.youtube.com/watch?v=LtRWu9DErgU)
 - [System Design Video 5](https://www.youtube.com/watch?v=t3DBzaeid74)
 - [System Design Video 6](https://www.youtube.com/watch?v=m58XzYViel4)
+
 ## DDD (Domain-Driven Design)
 - [Value objects to the rescue](https://medium.com/swlh/value-objects-to-the-rescue-28c563ad97c6)
 - [DDD and Clean Architecture Part 1](https://medium.com/@eng.hibrahem/ddd-and-clean-architecture-part-1-9a514b964395)
 - [DDD video](https://www.youtube.com/watch?v=wivgopk9FmM)
 - [Kotlin and Domain-Driven Design: Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
+
 ## UI/UX Design
 - [How to make any information-heavy design look less busy](https://uxmovement.medium.com/how-to-make-any-information-heavy-design-look-less-busy-79fe3808ebb)
 - [Thumb-friendly design: Optimizing mobile UI for one-handed use](https://medium.com/@uxandyouti/thumb-friendly-design-optimizing-mobile-ui-for-one-handed-use-0f4acc446b3f)
@@ -224,6 +233,7 @@
 - [Strategic Domain-Driven Design](https://vaadin.com/blog/ddd-part-1-strategic-domain-driven-design)
 - [Tactical Domain-Driven Design](https://vaadin.com/blog/ddd-part-2-tactical-domain-driven-design)
 - [Spotify Agile at Scale](https://www.atlassian.com/agile/agile-at-scale/spotify)
+
 ## AI
 - [AI YouTube 1](https://www.youtube.com/watch?v=6dy0A_6dhVQ)
 - [AI YouTube 2](https://www.youtube.com/watch?v=xY0DV9sjt2g)
@@ -252,6 +262,7 @@
 ## Team Building
 - [The Trouble with Technical Interviews - GitLab](https://about.gitlab.com/blog/2020/03/19/the-trouble-with-technical-interviews/)
 - [Building High Velocity Teams](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+
 ## Startups
 - [Startups YouTube 1](https://www.youtube.com/watch?v=7rKAqXOWOBs)
 - [Startups YouTube 2](https://www.youtube.com/watch?v=nHQv4blla7g)
@@ -283,6 +294,7 @@
 - [Video 3](https://www.youtube.com/watch?v=-T2PtJOyrWo)
 - [Video 4](https://www.youtube.com/watch?v=GpOO5iKzOmY)
 - [Defensive Programming](https://enterprisecraftsmanship.com/posts/defensive-programming/)
+- [HTTP/REST Video](https://www.youtube.com/watch?v=uRwQKikomtE)
 
 ## Personal Growth
 - [Growth YouTube 1](https://www.youtube.com/watch?v=Ll6KIN5fH10)
