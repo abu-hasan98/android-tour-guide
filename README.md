@@ -1,5 +1,6 @@
 # Android Tour Guide
-- This is a curated collection of high-quality videos and articles sourced from hundreds of speakers and conferences. I carefully select the most impactful content to ensure it meets a high standard of relevance and expertise. For example, at a large conference like DroidCon, where there may be 50 videos, I carefully choose only the top five that offer the most value in terms of insights, innovation, or practical knowledge.
+- This is a collection of high-quality videos and articles sourced from hundreds of speakers and conferences. I carefully select the most impactful content to ensure it meets a high standard of relevance and expertise.
+> For example, at a large conference like DroidCon, where there may be 50 videos, I carefully choose only the top five that offer the most value in terms of insights, innovation, or practical knowledge.
 
 ## The selection criteria
 - Speaker Clarity: Easy-to-understand language.
