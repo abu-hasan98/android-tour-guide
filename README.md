@@ -16,7 +16,7 @@
 - 📚 Resources
 - 🕹️ Interactive
 
-## Who to use it 
+## How to use it 
 - 📅 12-Month Plan 
 - 🎥➡️🖥️ Watch, Then Apply  
 - ❓💬 Ask
@@ -42,8 +42,9 @@
    * [The selection criteria](#the-selection-criteria)
    * [Best android roadmap ](#best-android-roadmap)
    * [How tour guides is different from roadmaps?](#how-tour-guides-is-different-from-roadmaps)
-   * [Who to use it ](#who-to-use-it)
+   * [How to use it ](#How-to-use-it)
    * [Who can use it?](#who-can-use-it)
+   * [Where to use it?](#Where-to-use-it)
    * [Hardness Level](#hardness-level)
 - [Topics ](#topics)
 - [General ](#general)
