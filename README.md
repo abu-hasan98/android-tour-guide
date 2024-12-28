@@ -522,6 +522,7 @@
 - [GitHub Skydoves](https://twitter.com/github_skydoves)
 - [Ivy Wallet GitHub](https://github.com/Ivy-Apps/ivy-wallet)
 - [TV Maniac GitHub](https://github.com/thomaskioko/tv-maniac)
+- [nowinandroid](https://github.com/android/nowinandroid)
 
 ### Canvas
 - [Canvas video 1](https://www.youtube.com/watch?v=LEuxvDVA9pA)
