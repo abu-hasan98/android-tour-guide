@@ -876,3 +876,11 @@ By watching these videos, will become senior Android engineers.
 - [l2](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LyrjQIwPQd-lYpoWjGU0Ibh)
 - [l3](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lx2OJqaZ6OjoQsgTx9hzfaL)
 - [l4](https://www.youtube.com/playlist?list=PLF8wQ8_AW0LxphJu5iO2l9kAe1nlJj859)
+
+
+# Topics
+General: Clean Code, Refactoring, Object-Oriented Programming, Functional Programming, Reactive Programming, Code Review, Version Control Git, System Design, DDD, UI/UX Design, QA, Productive, Agile, AI, Releases, Math, Team Building, Startups, Feature Flags, Interview, Algorithms, How Things Work, Personal Growth.
+
+Pure Kotlin: Kotlin Fundamentals, Kotlin Professional, Coroutines, Flow/Channels, Channels, RxJava.
+
+Mobile Specific: Android Development, Jetpack Compose, Clean Architecture, State, MVI, MVVM, Modules, Unit Testing, Dependency Injection, Kotlin Multiplatform Mobile (KMM), Swift for Android Developers, Compose KMM, Deep Linking, Canvas, CI/CD Setup, Framework, Gradle, Security, Server-Driven UI, Performance Optimization, gRPC, KSP, Useful Links, Great Projects.
