@@ -52,7 +52,7 @@ Where to Use This Guide?
 - [General ](#general)
    * [Clean Code](#clean-code)
    * [Refactoring](#refactoring)
-   * [Object-Oriented Programming](#object-oriented-programming)
+   * [-Oriented Programming](#object-oriented-programming)
    * [Functional Programming](#functional-programming)
    * [Reactive Programming](#reactive-programming)
    * [Code Review](#code-review)
@@ -169,6 +169,7 @@ Where to Use This Guide?
 - [Object-Oriented Programming Video 9](https://www.youtube.com/watch?v=q1qKv5TBaOA&ab_channel=Coderized)
 - [Object-Oriented Programming Vimeo Video](https://vimeo.com/69255635)
 - [Object-Oriented Programming Video 10](https://www.youtube.com/watch?v=hxGOiiR9ZKg&ab_channel=CodeAesthetic)
+- [TellDontAsk](https://martinfowler.com/bliki/TellDontAsk.html)
 
 ## Functional Programming
 - [Functional Programming Video 1](https://www.youtube.com/watch?v=Ed3t4WAe0Co)
@@ -263,7 +264,8 @@ Where to Use This Guide?
 - [DDD and Clean Architecture Part 1](https://medium.com/@eng.hibrahem/ddd-and-clean-architecture-part-1-9a514b964395)
 - [DDD video](https://www.youtube.com/watch?v=wivgopk9FmM)
 - [Kotlin and Domain-Driven Design: Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
-
+- [entity vs value object the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+ 
 ## UI/UX Design
 - [How to make any information-heavy design look less busy](https://uxmovement.medium.com/how-to-make-any-information-heavy-design-look-less-busy-79fe3808ebb)
 - [Thumb-friendly design: Optimizing mobile UI for one-handed use](https://medium.com/@uxandyouti/thumb-friendly-design-optimizing-mobile-ui-for-one-handed-use-0f4acc446b3f)
@@ -517,6 +519,7 @@ Where to Use This Guide?
 - [Jetpack Compose Video 6](https://www.youtube.com/watch?v=W3R_ETKMj0E)
 - [opinion jetpack compose needs a design system layer](https://proandroiddev.com/opinion-jetpack-compose-needs-a-design-system-layer-dc579fde79b2)
 - [understanding window insets in jetpack compose](https://proandroiddev.com/understanding-window-insets-in-jetpack-compose-46245b9ceffa)
+- [state vs stateflow](https://pl-coding.com/2024/11/16/composestate-vs-stateflow/)
 
 ## Clean Architecture
 - [Video: Clean Architecture Overview](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -601,6 +604,7 @@ Where to Use This Guide?
 - [MVWT: Demystifying Architecture Patterns](https://androidessence.com/mvwtf)
 - [Kotlin Multiplatform in an MVVM World](https://www.droidcon.com/2024/07/17/kotlin-multiplatform-in-an-mvvm-world/)
 - [MVWT: Demystifying Architecture Patterns](https://www.droidcon.com/2024/07/17/mvwtf-demystifying-architecture-patterns/)
+- [why-your-android-ui-should-be-dumb](https://pl-coding.com/2024/10/02/why-your-android-ui-should-be-dumb/)
 
 ## MVVM
 - [YouTube: MVVM Overview](https://www.youtube.com/watch?v=QrbhPcbZv0I&t=1244s)
@@ -822,7 +826,7 @@ Where to Use This Guide?
 - [Build a Computer - Coursera](https://www.coursera.org/learn/build-a-computer)
   
 ## Blogs
-- [Object-Oriented Design Blog](https://maximilianocontieri.com/series/object-oriented-design)
+- [-Oriented Design Blog](https://maximilianocontieri.com/series/-oriented-design)
 - [PL-Coding Blog](https://pl-coding.com/blog)
 - [Medium Blog 1](https://medium.com/@101)
   
@@ -881,7 +885,7 @@ Where to Use This Guide?
 
 
 # Topics
-General: Clean Code, Refactoring, Object-Oriented Programming, Functional Programming, Reactive Programming, Code Review, Version Control Git, System Design, DDD, UI/UX Design, QA, Productive, Agile, AI, Releases, Math, Team Building, Startups, Feature Flags, Interview, Algorithms, How Things Work, Personal Growth.
+General: Clean Code, Refactoring, -Oriented Programming, Functional Programming, Reactive Programming, Code Review, Version Control Git, System Design, DDD, UI/UX Design, QA, Productive, Agile, AI, Releases, Math, Team Building, Startups, Feature Flags, Interview, Algorithms, How Things Work, Personal Growth.
 
 Pure Kotlin: Kotlin Fundamentals, Kotlin Professional, Coroutines, Flow/Channels, Channels, RxJava.
 
