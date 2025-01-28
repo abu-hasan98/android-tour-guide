@@ -1,5 +1,6 @@
 # Android Tour Guide
 Become a senior Android engineer by learning from the best resources. This guide handpicks top videos, articles, and tools from 3,000+ resources for maximum value.
+It is specifically tailored for native Android speakers, but there are many general sections that can help any developer
 
 🚧 Under Heavy Development 🚧
 
