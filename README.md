@@ -1,6 +1,7 @@
 # Android Tour Guide
-Become a senior Android engineer by learning from the best resources. This guide handpicks top videos, articles, and tools from 1,000+ resources for maximum value.
+Become a senior Android engineer by learning from the best resources. This guide handpicks top videos, articles, and tools from 3,000+ resources for maximum value.
 
+🚧 Under Heavy Development 🚧
 
 ## The selection criteria
 - Speaker Clarity: Easy-to-understand language.
