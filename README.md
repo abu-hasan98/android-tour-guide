@@ -137,6 +137,12 @@ Where to Use This Guide?
 - [Clean Code video 3](https://www.youtube.com/watch?v=WCFYFHz5tBU)
 - [Clean Code video 4](https://www.youtube.com/watch?v=rQlMtztiAoA&ab_channel=CodeAesthetic)
 - [Clean Code video 5](https://www.youtube.com/watch?v=-J3wNP6u5YU&ab_channel=CodeAesthetic%20)
+- [Link](https://www.youtube.com/watch?v=wSDyiEjhp8k)
+- [Link](https://www.youtube.com/watch?v=-AzSRHiV9Cc)
+- [Link](https://www.youtube.com/watch?v=rCX4teVBg5k)
+- [Link](https://www.youtube.com/watch?v=5tUbXNR5goM)
+- [Link](https://www.youtube.com/watch?v=_tk5KftAJbU)
+- [Link](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 
 ## Refactoring
 - [Refactoring video 1](https://www.youtube.com/watch?v=f2-6W8wxIj0)
@@ -206,6 +212,11 @@ Where to Use This Guide?
 - [Functional Programming Video 29](https://www.youtube.com/watch?v=6f5dt923FmQ)
 - [Functional Programming Video 30](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 - [Functional Programming GitHub Repository](https://github.com/DenisBronx/FunctionalUseCases)
+- [Link](https://www.youtube.com/watch?v=n5REbbvRYqQ)
+- [Link](https://www.youtube.com/watch?v=vo2A_FBleW4)
+- [Link](https://www.youtube.com/watch?v=5ghWnXp3aAY)
+- [Link](https://www.youtube.com/watch?v=3n17wHe5wEw)
+- [Link](https://www.youtube.com/watch?v=OdaBlaIpkIw)
 
 ## Reactive Programming
 - [Reactive Programming YouTube 1](https://www.youtube.com/watch?v=weWSYIUdX6c)
@@ -220,8 +231,10 @@ Where to Use This Guide?
 - [You Can't Add Quality After the Fact](https://craftbettersoftware.com/p/you-cant-add-quality-after-the-fact)
 - [Code Review YouTube](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
 - [Clean Code video 1](https://www.youtube.com/watch?v=llGgO74uXMI&feature=youtu.be)
+- [Link](https://www.youtube.com/watch?v=oahoZcJaAW0)
 
 ## Version Control Git
+- [Learn Git Branching](https://learngitbranching.js.org/)
 - [YouTube: Git for Beginners](https://www.youtube.com/watch?v=hZS96dwKvt0)
 - [Learn Git Branching](https://learngitbranching.js.org)
 - [Git Good with Android Studio](https://zsmb.co/talks/git-good-with-android-studio/)
@@ -248,6 +261,13 @@ Where to Use This Guide?
 - [YouTube Playlist: Git in Android](https://www.youtube.com/playlist?list=PLfU9XN7w4tFwKwh_xPSQ_X1-hROQEpHnM)
 - [YouTube: Git Advanced Topics](https://www.youtube.com/watch?v=mZxhs4fBO2E)
 - [Craft Better Software: Git Branching Strategies](https://craftbettersoftware.com/p/the-best-git-branching-strategy)
+- [Link](https://www.youtube.com/watch?v=mpceWKeXCGY)
+- [Link](https://www.youtube.com/watch?v=Q-kqm0AgJZ8)
+- [Link](https://www.youtube.com/watch?v=DkWDHzmMvyg)
+- [Link](https://www.youtube.com/watch?v=42392W7SgnE)
+- [Link](https://www.youtube.com/watch?v=ntM7utSjeVU)
+- [Link](https://www.youtube.com/watch?v=Y6ZHV0RH0fQ)
+- [Link](https://www.youtube.com/watch?v=hZS96dwKvt0)
 
 ## System Design
 - [System Design Video 1](https://www.youtube.com/watch?v=BiTN9pG4xbM)
@@ -267,6 +287,10 @@ Where to Use This Guide?
 - [DDD video](https://www.youtube.com/watch?v=wivgopk9FmM)
 - [Kotlin and Domain-Driven Design: Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
 - [entity vs value object the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+- [Link](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+
+## Design Pattern 
+[Link](https://www.youtube.com/watch?v=aBOrVRKK3fA)
  
 ## UI/UX Design
 - [How to make any information-heavy design look less busy](https://uxmovement.medium.com/how-to-make-any-information-heavy-design-look-less-busy-79fe3808ebb)
@@ -308,6 +332,7 @@ Where to Use This Guide?
 - [Strategic Domain-Driven Design](https://vaadin.com/blog/ddd-part-1-strategic-domain-driven-design)
 - [Tactical Domain-Driven Design](https://vaadin.com/blog/ddd-part-2-tactical-domain-driven-design)
 - [Spotify Agile at Scale](https://www.atlassian.com/agile/agile-at-scale/spotify)
+- [Link](https://www.youtube.com/watch?v=C6-ZXvACnkk)
 
 ## AI
 - [AI YouTube 1](https://www.youtube.com/watch?v=6dy0A_6dhVQ)
@@ -370,6 +395,10 @@ Where to Use This Guide?
 - [Video 4](https://www.youtube.com/watch?v=GpOO5iKzOmY)
 - [Defensive Programming](https://enterprisecraftsmanship.com/posts/defensive-programming/)
 - [HTTP/REST Video](https://www.youtube.com/watch?v=uRwQKikomtE)
+- [Link](https://www.youtube.com/watch?v=J9DWkjal4GE)
+- [Link](https://www.youtube.com/watch?v=DJxEYOC8IRc)
+- [Link](https://www.youtube.com/watch?v=hwyRnHA54lI)
+- [Link](https://www.youtube.com/watch?v=P4jmusPZ7U4)
 
 ## Personal Growth
 - [Growth YouTube 1](https://www.youtube.com/watch?v=Ll6KIN5fH10)
@@ -384,6 +413,7 @@ Where to Use This Guide?
 - [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=EYZmdYH39Uo&ab_channel=AbdullahAlmehmadi)
 - [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=o3Jizi7E4vQ&ab_channel=AbdullahAlmehmadi)
 - [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=vGj9mHD3C5E&list=PL6A416815049B9CA4&index=11&ab_channel=AbdullahAlmehmadi)
+- [Link](https://www.youtube.com/watch?v=SI4TWu8Wnvg)
 
 # Pure Kotlin
 
@@ -414,6 +444,12 @@ Where to Use This Guide?
 - [5 Kotlin Snippets That Will Make You Say 'Whoa'](https://levelup.gitconnected.com/5-kotlin-snippets-that-will-make-you-say-whoa-kotlin-8021bcf85a31)
 - [Kotlin Fundamentals Video 9](https://www.youtube.com/watch?v=YxOTU9F_YX4)
 - [Kotlin Fundamentals Video 10](https://www.youtube.com/watch?v=OmwjrVawHqA)
+- [DSL](https://www.youtube.com/watch?v=BW2dKuMducc)
+- [Link](https://www.youtube.com/watch?v=NI8z1W9qgoE)
+- [Link](https://www.youtube.com/watch?v=iciZcJr2v2Q)
+- [Link](https://www.youtube.com/watch?v=d0BYBs4JSsE)
+- [Link](https://www.youtube.com/watch?v=hsQgITdGI7A)
+- [Link](https://www.youtube.com/watch?v=mpkDYV3WbJI)
 
 ## Kotlin Professional 
 - [Video 1](https://www.youtube.com/watch?v=MA6-ONDlXWU)
@@ -433,6 +469,27 @@ Where to Use This Guide?
 - [Video 15](https://youtu.be/zYH6zTtl-nc)
 - [Video 16](https://www.youtube.com/watch?v=kIzjzjJGk0Y)
 - [Video 17](https://www.youtube.com/watch?v=_fsUsxy8W0w)
+- [Link](https://www.youtube.com/watch?v=-Ak44LFwlwI)
+- [Link](https://www.youtube.com/watch?v=pSx6yb1QLdk)
+- [Link](https://www.youtube.com/watch?v=_ehHXi7iElA)
+- [Link](https://www.youtube.com/watch?v=VRxp3DD-ULQ)
+- [Link](https://www.youtube.com/watch?v=T9sAlxqYFYc)
+- [Link](https://www.youtube.com/watch?v=kIzjzjJGk0Y)
+- [Link](https://www.youtube.com/watch?v=7lEDGpa7sGw)
+- [Link](https://www.youtube.com/watch?v=7lEDGpa7sGw)
+- [Link](https://www.youtube.com/watch?v=erWsXSqQ-CM)
+- [Link](https://www.youtube.com/watch?v=6IPNt8ZsWeU)
+- [Link](https://www.youtube.com/watch?v=OFWMtmqocV8)
+- [Link](https://www.youtube.com/watch?v=e7tKQDJsTGs)
+- [Link](https://www.youtube.com/watch?v=mKTNAwTU4zc)
+- [Link](https://www.youtube.com/watch?v=Q0RYVV9rZBI)
+- [Link](https://www.youtube.com/watch?v=Q0RYVV9rZBI)
+- [Link](https://www.youtube.com/watch?v=KFgb6l1PUJI)
+- [Link](https://www.youtube.com/watch?v=gpEde54V-4o)
+- [Link](https://www.youtube.com/watch?v=Yz0xBaFt50s)
+- [Link](https://www.youtube.com/watch?v=6moaoAJui_4)
+- [Link](https://www.youtube.com/watch?v=d_vP_wEnjT4)
+- [Link](https://www.youtube.com/watch?v=i1wysckHg2o)
 
 ## Coroutines
 - [Bridging the gap between coroutines, JVM threads, and concurrency problems](https://medium.com/androiddevelopers/bridging-the-gap-between-coroutines-jvm-threads-and-concurrency-problems-864e563bd7c)
@@ -451,6 +508,8 @@ Where to Use This Guide?
 - [Coroutines video 4](https://www.youtube.com/watch?v=B8ppnjGPAGE)
 - [Kotlin Mutex Explained](https://medium.com/@michalankiersztajn/kotlin-mutex-explained-d2b72281cc42)
 - [KOTLIN COROUTINES](https://www.youtube.com/playlist?list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
+- [Link](https://www.youtube.com/watch?v=Wpco6IK1hmY)
+- [Link](https://www.youtube.com/watch?v=2RdHD0tceL4)
 
 ## Flow/Channels
 - [Flow video 1](https://www.youtube.com/watch?v=fSB6_KE95bU)
@@ -460,7 +519,7 @@ Where to Use This Guide?
 - [Mastering Kotlin Channels Part 2](https://medium.com/@mortitech/mastering-kotlin-channels-from-beginner-to-pro-part-2-3477255aee15)
 - [Baeldung Kotlin Channels Guide](https://www.baeldung.com/kotlin/channels)
 - [Shared Flows and Broadcast Channels](https://elizarov.medium.com/shared-flows-broadcast-channels-899b675e805c)
-- [Safer Way to Collect Flows in Android](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda)
+- [Safer Way to Collect Flows in](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda)
 - [Functional Reactive Programming Part 2](https://www.toptal.com/android/functional-reactive-programming-part-2)
 - [Functional Reactive Programming Part 1](https://www.toptal.com/android/functional-reactive-programming-part-1)
 - [Practical Example Using Reactive Clean Architecture](https://medium.com/insiden26/practical-example-using-reactive-clean-architecture-approach-8a2436ea76b4)
@@ -469,12 +528,15 @@ Where to Use This Guide?
 - [Flow video 3](https://www.youtube.com/watch?v=SA0Ti3_GlyQ&list=PLjQD4n5Df70Fg0R0-wFb5k_JyiP1jb9yD&index=11)
 - [Flow video 4](https://www.youtube.com/watch?v=fSB6_KE95bU&t=1009s)
 - [Flow video 5](https://www.youtube.com/watch?v=pgDK4-frLzo&list=WL&index=259&ab_channel=AndroidMakers)
+- [Link](https://www.youtube.com/watch?v=M8YtV47kaqA)
+- [Link](https://www.youtube.com/watch?v=p6SagGRLYaE)
 
 ## Channels
-- [The Android Factory YouTube](https://www.youtube.com/@TheAndroidFactory/videos)
+- [The Factory YouTube](https://www.youtube.com/@TheAndroidFactory/videos)
 - [Jeroen Mols LinkedIn](https://www.linkedin.com/in/jeroenmols/)
 - [Philomatics YouTube](https://www.youtube.com/@philomatics/videos)
 - [Pragma AR YouTube](https://www.youtube.com/@pragma-ar/videos)
+- [Link](https://www.youtube.com/watch?v=ee0cG2SDJNE)
 
 ## RxJava
 - [Learn RxJava](https://reactivex.io/learnrx/)
@@ -482,15 +544,15 @@ Where to Use This Guide?
 
 # Mobile Specific
 
-## Android Development
-- [ZSmb: Become a Pro in Android Studio](https://zsmb.co/talks/become-a-pro-in-android-studio/)
-- [YouTube: Best Android Studio Practices](https://www.youtube.com/watch?v=4Ob0plBL084)
+## Development
+- [ZSmb: Become a Pro in Studio](https://zsmb.co/talks/become-a-pro-in-android-studio/)
+- [YouTube: Best Studio Practices](https://www.youtube.com/watch?v=4Ob0plBL084)
 - [DroidCon: Reducing App Size](https://www.droidcon.com/2023/07/20/pruning-your-app-good-practices-for-reducing-app-size/)
-- [YouTube: Android Performance Tips](https://www.youtube.com/watch?v=12_iKwGIP64)
-- [Stream: Android Baseline Profile](https://getstream.io/blog/android-baseline-profile/)
-- [YouTube: Android Optimization](https://www.youtube.com/watch?v=1iBcMHe29r0)
-- [YouTube: Android Development Best Practices](https://www.youtube.com/watch?v=s8h7GJTZa4E)
-- [YouTube: Android Debugging Tips](https://www.youtube.com/watch?v=JfCivo5qJkI)
+- [YouTube: Performance Tips](https://www.youtube.com/watch?v=12_iKwGIP64)
+- [Stream: Baseline Profile](https://getstream.io/blog/android-baseline-profile/)
+- [YouTube: Optimization](https://www.youtube.com/watch?v=1iBcMHe29r0)
+- [YouTube: Development Best Practices](https://www.youtube.com/watch?v=s8h7GJTZa4E)
+- [YouTube: Debugging Tips](https://www.youtube.com/watch?v=JfCivo5qJkI)
 - [YouTube: Advanced Android Development](https://www.youtube.com/watch?v=MbIB8J5_zjM)
 - [YouTube: Android Development in 2024](https://devjorgecastro.medium.com/modern-android-development-in-2024-b70f194938bd)
 - [GitHub: Android Interview Questions](https://github.com/amitshekhariitbhu/android-interview-questions)
@@ -498,6 +560,11 @@ Where to Use This Guide?
 - [Medium: ViewModel Event Antipatterns](https://medium.com/androiddevelopers/viewmodel-one-off-event-antipatterns-16a1da869b95)
 - [Medium: Kotlin Property Delegation](https://medium.com/atlas/kotlin-by-property-delegation-create-reusable-code-f2bc2253e227)
 - [Tools YouTube](https://www.youtube.com/watch?v=KmZb24urx80)
+- [Link](https://www.youtube.com/watch?v=MSeI7XVzrvo)
+- [Link](https://www.youtube.com/watch?v=rq7niunA3Bs)
+- [Link](https://www.youtube.com/watch?v=y2zLFONuk7c)
+- [Link](https://www.youtube.com/watch?v=MSeI7XVzrvo)
+- [Link](https://www.youtube.com/watch?v=ZPM4flsAd9w)
 
 ## Jetpack Compose
 - [Jetpack Compose Video 1](https://www.youtube.com/watch?v=nCd02GTBbIM)
@@ -522,6 +589,7 @@ Where to Use This Guide?
 - [opinion jetpack compose needs a design system layer](https://proandroiddev.com/opinion-jetpack-compose-needs-a-design-system-layer-dc579fde79b2)
 - [understanding window insets in jetpack compose](https://proandroiddev.com/understanding-window-insets-in-jetpack-compose-46245b9ceffa)
 - [state vs stateflow](https://pl-coding.com/2024/11/16/composestate-vs-stateflow/)
+- [Link](https://www.youtube.com/watch?v=v6hI4lqL7Og)
 
 ## Clean Architecture
 - [Video: Clean Architecture Overview](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -624,6 +692,7 @@ Where to Use This Guide?
 - [Video on Modularization](https://www.youtube.com/watch?v=j_rEor4YnNc)
 - [Navigating Through Multi-Module Jetpack Compose Applications](https://proandroiddev.com/navigating-through-multi-module-jetpack-compose-applications-6c9a31fa12b6)
 - [Modularization Learning Journey - Now in Android](https://github.com/android/nowinandroid/blob/main/docs/ModularizationLearningJourney.md)
+- [Link](https://www.youtube.com/watch?v=lv1raAvwcgI)
 
 ## Unit Testing
 - [YouTube: Unit Testing Overview](https://www.youtube.com/watch?v=AmaHlsd4vUg)
@@ -685,6 +754,7 @@ Where to Use This Guide?
 - [YouTube: Unit Testing Deep Dive](https://www.youtube.com/watch?v=4hRdXBAgeaA)
 - [YouTube Playlist: Unit Testing](https://www.youtube.com/playlist?list=PLpzJoiAHJIao8JYQuP6sJpOOBwbA1FokU)
 - [YouTube: Unit Testing Explained](https://www.youtube.com/watch?v=kLLIX5SJVEo)
+- [Link](https://www.youtube.com/watch?v=zqdCM8zR6Mc)
 
 ## Dependency Injection
 - [Dependency Injection Overview](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
@@ -710,6 +780,7 @@ Where to Use This Guide?
 - [KMM Video 6](https://www.youtube.com/watch?v=V5EOsE_eJLE)
 - [KMM Video 7](https://www.youtube.com/watch?v=zDRlEp7r5i0)
 - [Multiplatform App Design with KMP and Compose](https://www.youtube.com/watch?v=EUTw0R7PpgY)
+- [Link](https://www.youtube.com/watch?v=WxCBzV4qUFw)
 
 ## Swift for Android Developers
 - [Swift is Like Kotlin](https://nilhcem.com/swift-is-like-kotlin/)
@@ -768,6 +839,7 @@ Where to Use This Guide?
 - [Gradle YouTube 2](https://www.youtube.com/watch?v=WEOwFkf127E)
 - [Gradle YouTube 3](https://www.youtube.com/watch?v=RCRQlz78wCg)
 - [Gradle YouTube 4](https://www.youtube.com/watch?v=Io1QFM_8eFw)
+- [Link](https://www.youtube.com/watch?v=kFWmL5opJNk)
 
 ## Security   
 - [Securing Android - Tackling Advanced Threats](https://www.droidcon.com/2024/11/22/securing-android-tackling-advanced-threats-and-enhancing-app-security/)
