@@ -143,6 +143,8 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=5tUbXNR5goM)
 - [Link](https://www.youtube.com/watch?v=_tk5KftAJbU)
 - [Link](https://www.youtube.com/watch?v=-J3wNP6u5YU)
+- [link](https://www.youtube.com/watch?v=-AzSRHiV9Cc&ab_channel=KantanCoding)
+
 
 ## Refactoring
 - [Refactoring video 1](https://www.youtube.com/watch?v=f2-6W8wxIj0)
@@ -310,6 +312,7 @@ Where to Use This Guide?
 - [YouTube - UX Design video 2](https://www.youtube.com/watch?v=XK0HQcGQGLg&ab_channel=Juxtoposed)
 - [YouTube - UX Design video 3](https://www.youtube.com/watch?v=GtffucAmM78)
 - [YouTube - UX Design video 4](https://www.youtube.com/watch?v=6U9iC-c15AI)
+- [link](https://uxdworld.com/best-practices-for-designing-empty-state-in-applications/)
 
 ## QA
 - [QA YouTube 1](https://www.youtube.com/watch?v=21FgB_mk98Q&list=WL&index=8)
@@ -399,6 +402,9 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=DJxEYOC8IRc)
 - [Link](https://www.youtube.com/watch?v=hwyRnHA54lI)
 - [Link](https://www.youtube.com/watch?v=P4jmusPZ7U4)
+- [Link](https://www.youtube.com/watch?v=Y1pgpn2gOSg&ab_channel=JakobJenkov)
+- [Link](https://www.youtube.com/watch?v=f89EVjwgIfM&ab_channel=DaveLeeds)
+
 
 ## Personal Growth
 - [Growth YouTube 1](https://www.youtube.com/watch?v=Ll6KIN5fH10)
@@ -414,6 +420,7 @@ Where to Use This Guide?
 - [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=o3Jizi7E4vQ&ab_channel=AbdullahAlmehmadi)
 - [YouTube - Abdullah Almehmadi: Leadership Video](https://www.youtube.com/watch?v=vGj9mHD3C5E&list=PL6A416815049B9CA4&index=11&ab_channel=AbdullahAlmehmadi)
 - [Link](https://www.youtube.com/watch?v=SI4TWu8Wnvg)
+- [Link](https://www.youtube.com/watch?v=SNlS-f-puik&ab_channel=TariqElouzeh)
 
 # Pure Kotlin
 
@@ -450,6 +457,8 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=d0BYBs4JSsE)
 - [Link](https://www.youtube.com/watch?v=hsQgITdGI7A)
 - [Link](https://www.youtube.com/watch?v=mpkDYV3WbJI)
+- [Link](https://www.youtube.com/watch?v=SYHcP2FJ8Hk&ab_channel=PhilippLackner)
+- [Link](https://www.youtube.com/watch?v=GFo5KPaY-zU&ab_channel=PhilippLackner)
 
 ## Kotlin Professional 
 - [Video 1](https://www.youtube.com/watch?v=MA6-ONDlXWU)
@@ -510,6 +519,8 @@ Where to Use This Guide?
 - [KOTLIN COROUTINES](https://www.youtube.com/playlist?list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
 - [Link](https://www.youtube.com/watch?v=Wpco6IK1hmY)
 - [Link](https://www.youtube.com/watch?v=2RdHD0tceL4)
+- [Link](https://proandroiddev.com/understanding-coroutines-dispatchers-2578dc577851)
+- [Link](https://getstream.io/blog/caution-runblocking-android/
 
 ## Flow/Channels
 - [Flow video 1](https://www.youtube.com/watch?v=fSB6_KE95bU)
@@ -590,6 +601,11 @@ Where to Use This Guide?
 - [understanding window insets in jetpack compose](https://proandroiddev.com/understanding-window-insets-in-jetpack-compose-46245b9ceffa)
 - [state vs stateflow](https://pl-coding.com/2024/11/16/composestate-vs-stateflow/)
 - [Link](https://www.youtube.com/watch?v=v6hI4lqL7Og)
+- [Link](https://getstream.io/blog/designing-effective-compose/)
+- [Link](https://www.youtube.com/watch?v=J-kXVR1sd4c&ab_channel=codingwithnerds)
+- [Link](https://www.youtube.com/watch?v=gIUe2OOzohw&ab_channel=PhilippLackner)
+- [Link](https://www.youtube.com/watch?v=T2CdEeReuUw&ab_channel=MohsenMashkour)
+
 
 ## Clean Architecture
 - [Video: Clean Architecture Overview](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -634,7 +650,10 @@ Where to Use This Guide?
 - [Video 3](https://www.youtube.com/watch?v=k32C2fDJNns)
 - [Video 4](https://www.linkedin.com/pulse/sdd-squad-driven-design-ahmed-adel-ismail-ljczf)
 - [Video 5](https://www.linkedin.com/pulse/sharing-data-across-multiple-mobile-squads-examples-ismail-mgdxf)
-
+- [Link](https://www.youtube.com/watch?v=e2OSHr2edrI&ab_channel=TheChance)
+- [Link](https://www.youtube.com/watch?v=Tp-xn1xSu0I&ab_channel=TheChance)
+- [Link](https://www.youtube.com/watch?v=kSGNQbEiDFA&ab_channel=TheChance)
+ 
 ## State
 - [Video 1](https://www.youtube.com/watch?v=V-s4z7B_Gnc)
 - [Article: Passive Views](https://proandroiddev.com/passive-views-keep-your-ui-code-simple-and-stupid-part-2-ec7ee456167c)
@@ -684,6 +703,8 @@ Where to Use This Guide?
 - [YouTube: MVVM Explained](https://youtu.be/QrbhPcbZv0I?t=1244)
 - [YouTube: Advanced MVVM Techniques](https://youtu.be/T-GYSvbQtSk?t=3026)
 - [YouTube: MVVM Patterns in Android](https://www.youtube.com/watch?v=T7A-JbJBjyg)
+- [Link](https://www.youtube.com/watch?v=wB8B7o1Jviw&ab_channel=TheChance)
+- [Link](https://www.youtube.com/watch?v=n-IN1GYanGo&ab_channel=TheChance&sttick=0)
 
 ## Modules
 - [Navigating Multi-Module Jetpack Compose Applications](https://www.youtube.com/watch?v=PZBg5DIzNww)
@@ -767,6 +788,7 @@ Where to Use This Guide?
 - [Comparing Three Dependency Injection Solutions](https://androidessence.com/comparing-three-dependency-injection-solutions)
 - [Building Our Own Simplified Version of Koin](https://proandroiddev.com/lets-build-our-own-simplified-version-of-koin-19a887306258)
 - [Dagger2 / Hilt Playlist](https://www.youtube.com/playlist?list=PLXjbGq0ERjFoPiMas60yaS9xw--fOVLPy)
+- [link](https://www.youtube.com/watch?v=_qb87PN7jlI&ab_channel=PhilippLackner)
 
 ## Kotlin Multiplatform Mobile (KMM)
 - [KMM Video 1](https://www.youtube.com/watch?v=oqEU8Rb7XYQ)
@@ -807,6 +829,7 @@ Where to Use This Guide?
 - [Zoe Wave: Mobile Foundation](https://zoewave.medium.com/mobile-foundation-e9a427a1ccc5)
 - [YouTube: Swift for Android Developers](https://www.youtube.com/watch?v=RbPLXjRkjZo)
 - [YouTube: Swift vs Kotlin](https://www.youtube.com/watch?v=l7obVQObdRM)
+- [swiftui](https://www.youtube.com/watch?v=udXfSKzoPyc&ab_channel=FlowritesCode)
 
 ## Compose KMM
 - [Compose KMM Video](https://www.youtube.com/watch?v=g4XSWQ7QT8g)
@@ -886,6 +909,80 @@ Where to Use This Guide?
 - [Ivy Wallet GitHub](https://github.com/Ivy-Apps/ivy-wallet)
 - [TV Maniac GitHub](https://github.com/thomaskioko/tv-maniac)
 - [nowinandroid](https://github.com/android/nowinandroid)
+
+# Series
+- [swiftui](https://www.youtube.com/playlist?list=PLdTv9pW1I2b20IhYdF6iDhLB6XYyxREgt)
+- [Kotlin](https://www.youtube.com/playlist?list=PLEPx7DrqAqKB01JqOEbJBBfWdPrqmps7M)
+- [compose](https://www.youtube.com/playlist?list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc)
+
+
+## Coroutine
+[video](https://www.youtube.com/watch?v=bv7eGvbuxKU&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=2yldjeGYJJs&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=_3e66H01Oqo&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=kKWWcowMl8Q&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=_JhOkrB3yX4&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=zk0Gz8fCZ04&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=OK4MQf8FTig&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=V0_HKkMAvA8&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=dniaTMRS-QM&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=iMtQGPUD15A&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=vzBf8v2MqSE&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=pbvIwbwwkTY&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=iYbtCpKt7FE&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=2TedOnZJMco&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=_qBe8vOK82Q&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=p1_krsEIc2w&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=7Trx5Tmqkjc&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=o9I8xuA1N2Y&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=528b-7fdS3k&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=MfIHJjj1i4s&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=GAApGGcgY9Y&ab_channel=TheChance)
+
+## Solid
+Sold
+[video](https://www.youtube.com/watch?v=ztHawzvv7R4)
+[video](https://www.youtube.com/watch?v=cCf7kkgMfgM)
+[video](https://www.youtube.com/watch?v=E1yTi7G7sgM)
+[video](https://www.youtube.com/watch?v=f6oXvA5MlDY&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=oVIA-0uHEm4&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=oVIA-0uHEm4&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=LM_AKJOLuoU&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=lPCYieAIJD4&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=YWpcMtNtJdw&ab_channel=TheChance)
+
+## Compose Animation
+
+[video](https://www.youtube.com/watch?v=qEvtLnrMVIM&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=79&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=iFJ-utQR7BU&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=80&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=xqRQUqRFKwM&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=81&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=xaVNu4DNPfg&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=82&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=J1Y6os8g2KM&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=83&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=j9LmVzbo24I&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=84&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=KvoUCaGUFuQ&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=85&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=FI8MR50YtCc&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=86&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=mmnfJVg_5Dk&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=86&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=zyzgHzxgXtI&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=88&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=zyzgHzxgXtI&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=87&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=CvoXTNENjXA&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=88&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=6CdUkbgyn6g&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=89&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=ambfpiw8YTg&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=90&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=YltYV_pNn34&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=91&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=TYsV3nZGwZk&ab_channel=MohsenMashkour)
+
+## Testing
+[video](https://www.youtube.com/watch?v=m4EcNVMDiz8&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=XdlYbPwWpOI&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=b29ZmjBneL8&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=Qkxt33pcKNg&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=cbrfPqXtPiI&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=ME_Mp_ItmO8&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=7DXs5nxYKZM&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=kvNYitEJF6A&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=g-QKlTeuFpQ&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=3mgNEhaJFLY&ab_channel=TheChance)
+[video](https://www.youtube.com/watch?v=teyjjV8-BOM&ab_channel=TheChance)
+
 
 # Resources 
 ## Courses
