@@ -219,6 +219,7 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=5ghWnXp3aAY)
 - [Link](https://www.youtube.com/watch?v=3n17wHe5wEw)
 - [Link](https://www.youtube.com/watch?v=OdaBlaIpkIw)
+- [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
 ## Reactive Programming
 - [Reactive Programming YouTube 1](https://www.youtube.com/watch?v=weWSYIUdX6c)
@@ -459,6 +460,8 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=mpkDYV3WbJI)
 - [Link](https://www.youtube.com/watch?v=SYHcP2FJ8Hk&ab_channel=PhilippLackner)
 - [Link](https://www.youtube.com/watch?v=GFo5KPaY-zU&ab_channel=PhilippLackner)
+- [Link](https://medium.com/@ramadan123sayed/kotlin-generics-the-ultimate-guide-with-practical-examples-ca3f5ca557e7)
+- [Link](https://medium.com/@ramadan123sayed/mastering-inline-functions-in-kotlin-deep-dive-into-inline-crossinline-and-noinline-with-generic-c135052a0ea4)
 
 ## Kotlin Professional 
 - [Video 1](https://www.youtube.com/watch?v=MA6-ONDlXWU)
@@ -521,6 +524,9 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=2RdHD0tceL4)
 - [Link](https://proandroiddev.com/understanding-coroutines-dispatchers-2578dc577851)
 - [Link](https://getstream.io/blog/caution-runblocking-android/
+- [Link](https://www.youtube.com/watch?v=2uxsNJ0TdIM&ab_channel=Hydra)
+- [Link](https://www.javaadvent.com/2021/12/are-kotlin-coroutines-enough-to-replace-rxjava.html)
+
 
 ## Flow/Channels
 - [Flow video 1](https://www.youtube.com/watch?v=fSB6_KE95bU)
@@ -541,6 +547,9 @@ Where to Use This Guide?
 - [Flow video 5](https://www.youtube.com/watch?v=pgDK4-frLzo&list=WL&index=259&ab_channel=AndroidMakers)
 - [Link](https://www.youtube.com/watch?v=M8YtV47kaqA)
 - [Link](https://www.youtube.com/watch?v=p6SagGRLYaE)
+- [Link](https://medium.com/@ramadan123sayed/kotlin-flow-comprehensive-guide-with-compose-integration-7c640aece690)
+- [Link](https://medium.com/@galou.minisini/advanced-kotlin-flow-cheat-sheet-for-android-engineer-cb8157d4f848)
+
 
 ## Channels
 - [The Factory YouTube](https://www.youtube.com/@TheAndroidFactory/videos)
@@ -605,7 +614,8 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=J-kXVR1sd4c&ab_channel=codingwithnerds)
 - [Link](https://www.youtube.com/watch?v=gIUe2OOzohw&ab_channel=PhilippLackner)
 - [Link](https://www.youtube.com/watch?v=T2CdEeReuUw&ab_channel=MohsenMashkour)
-
+- [Link](https://medium.com/@ramadan123sayed/composition-local-in-jetpack-compose-4d0a54afa67c)
+- [Link](https://medium.com/@ramadan123sayed/jetpack-compose-10-essential-tips-to-optimize-recomposition-and-understand-composable-lifecycles-f36844793e90)
 
 ## Clean Architecture
 - [Video: Clean Architecture Overview](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -653,7 +663,11 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=e2OSHr2edrI&ab_channel=TheChance)
 - [Link](https://www.youtube.com/watch?v=Tp-xn1xSu0I&ab_channel=TheChance)
 - [Link](https://www.youtube.com/watch?v=kSGNQbEiDFA&ab_channel=TheChance)
- 
+- [Link](https://medium.com/clean-android-dev/the-real-clean-architecture-in-android-modularization-e26940fd0a23)
+- [Link](https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576)
+- [Link](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
+- [Link](https://proandroiddev.com/functional-data-mappers-4daf495192ed)
+
 ## State
 - [Video 1](https://www.youtube.com/watch?v=V-s4z7B_Gnc)
 - [Article: Passive Views](https://proandroiddev.com/passive-views-keep-your-ui-code-simple-and-stupid-part-2-ec7ee456167c)
@@ -804,6 +818,10 @@ Where to Use This Guide?
 - [Multiplatform App Design with KMP and Compose](https://www.youtube.com/watch?v=EUTw0R7PpgY)
 - [Link](https://www.youtube.com/watch?v=WxCBzV4qUFw)
 
+# Compose Multiplatform
+- [Link](https://www.youtube.com/watch?v=F0BnN_uLp9A&ab_channel=PhilippLackner)
+
+
 ## Swift for Android Developers
 - [Swift is Like Kotlin](https://nilhcem.com/swift-is-like-kotlin/)
 - [Swift vs Kotlin: Similarities and Differences](https://www.willowtreeapps.com/craft/swift-and-kotlin-the-subtle-differences)
@@ -869,6 +887,7 @@ Where to Use This Guide?
 - [Exploring Android Accessibility Malware](https://www.droidcon.com/2024/07/17/exploring-android-accessibility-malware/)
 - [Security YouTube 1](https://www.youtube.com/watch?v=WlKj-UnX-s4&ab_channel=Bits%26Pixels)
 - [Security YouTube 2](https://www.youtube.com/shorts/tAAFooNRtSk)
+- [Security YouTube 2](https://www.youtube.com/watch?v=VQvfvXD3ec4&ab_channel=PhilippLackner)
 
 ## Server-Driven UI
 - [SDUI video 1](https://www.youtube.com/watch?v=vKql_QUfHV0)
@@ -971,17 +990,33 @@ Sold
 [video](https://www.youtube.com/watch?v=TYsV3nZGwZk&ab_channel=MohsenMashkour)
 
 ## Testing
-[video](https://www.youtube.com/watch?v=m4EcNVMDiz8&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=XdlYbPwWpOI&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=b29ZmjBneL8&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=Qkxt33pcKNg&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=cbrfPqXtPiI&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=ME_Mp_ItmO8&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=7DXs5nxYKZM&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=kvNYitEJF6A&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=g-QKlTeuFpQ&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=3mgNEhaJFLY&ab_channel=TheChance)
-[video](https://www.youtube.com/watch?v=teyjjV8-BOM&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=m4EcNVMDiz8&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=XdlYbPwWpOI&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=b29ZmjBneL8&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=Qkxt33pcKNg&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=cbrfPqXtPiI&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=ME_Mp_ItmO8&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=7DXs5nxYKZM&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=kvNYitEJF6A&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=g-QKlTeuFpQ&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=3mgNEhaJFLY&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=teyjjV8-BOM&ab_channel=TheChance)
+- [video](https://www.youtube.com/watch?v=dowaRZIJRKE&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=1&pp=iAQB)
+- [video](https://www.youtube.com/watch?v=cI45zJ1FapM&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=4&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=cAyROJ84tBs&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=5&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=JaIeeGqsO9M&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=6&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=W5w-5EK94wc&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=7&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=W5w-5EK94wc&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+
+# Design pattern
+- [video](https://www.youtube.com/watch?v=8OitfyFqboA&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=-9fFuFkuQeU&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=nEMbvFTy54Y&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=PBQp5vtiQdg&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=NQxjvSYSKQk&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=nEMbvFTy54Y&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://www.youtube.com/watch?v=c5G6r8_r80s&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
+- [video](https://dev.to/lovis/gang-of-four-patterns-in-kotlin---slight-return)
 
 
 # Resources 
