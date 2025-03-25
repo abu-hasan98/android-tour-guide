@@ -85,7 +85,7 @@ Where to Use This Guide?
 - [Mobile Specific](#mobile-specific)
    * [Android Development](#android-development)
    * [Jetpack Compose](#jetpack-compose)
-   * [Clean Architecture](#clean-architecture)
+   * [rchitecture](#clean-architecture)
    * [State](#state)
    * [MVI](#mvi)
    * [MVVM](#mvvm)
@@ -144,8 +144,10 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=_tk5KftAJbU)
 - [Link](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 - [link](https://www.youtube.com/watch?v=-AzSRHiV9Cc&ab_channel=KantanCoding)
-
-
+- [link](https://www.youtube.com/watch?v=EumXak7TyQ0&list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79&index=3&ab_channel=WebDevSimplified)
+- [link](https://www.youtube.com/watch?v=iS__wLPgfPg&list=PLIoWuZuU3QpckVShiCgauq_OwGLI8M-9l&index=4&ab_channel=code.talks%28ehem.DeveloperConference%29)
+- [link](https://www.youtube.com/watch?v=NN8s5Zv6D-I&ab_channel=Engineers.SG)
+  
 ## Refactoring
 - [Refactoring video 1](https://www.youtube.com/watch?v=f2-6W8wxIj0)
 - [Refactoring video 2](https://www.youtube.com/watch?v=U4hIpntxWYc)
@@ -158,6 +160,7 @@ Where to Use This Guide?
 - [Refactoring video 9](https://www.youtube.com/watch?v=dytbm2coxNk)
 - [Refactoring video 10](https://www.youtube.com/watch?v=rCX4teVBg5k)
 - [Refactor Like a Pro](https://craftbettersoftware.com/p/refactor-like-a-pro)
+- [Refactor Like a Pro](https://www.youtube.com/watch?v=oZ6LLooOoqE&ab_channel=DeveloperSummit)
 
 ## Object-Oriented Programming
 - [Inheritance vs Composition](https://betterprogramming.pub/inheritance-vs-composition-2fa0cdd2f939)
@@ -220,6 +223,7 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=3n17wHe5wEw)
 - [Link](https://www.youtube.com/watch?v=OdaBlaIpkIw)
 - [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
 ## Reactive Programming
 - [Reactive Programming YouTube 1](https://www.youtube.com/watch?v=weWSYIUdX6c)
@@ -235,6 +239,8 @@ Where to Use This Guide?
 - [Code Review YouTube](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
 - [Clean Code video 1](https://www.youtube.com/watch?v=llGgO74uXMI&feature=youtu.be)
 - [Link](https://www.youtube.com/watch?v=oahoZcJaAW0)
+- [Code review](https://www.youtube.com/watch?v=OLp4yecQp2Y&ab_channel=DeveloperSummit)
+
 
 ## Version Control Git
 - [Learn Git Branching](https://learngitbranching.js.org/)
@@ -291,10 +297,26 @@ Where to Use This Guide?
 - [Kotlin and Domain-Driven Design: Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
 - [entity vs value object the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 - [Link](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+- [Link](https://www.youtube.com/watch?v=xFl-QQZJFTA&ab_channel=DrawingBoxes)
+- [Link](https://www.youtube.com/watch?v=NvBsEnDgA4o&ab_channel=DrawingBoxes)
+- [Link](https://www.youtube.com/watch?v=JpcNeeetijo&list=PL388EmcXVjGMDDyaQj5SNi4RVYTiYKZA8&index=16&ab_channel=IbuildingsDutchPHPConference)
 
 ## Design Pattern 
 [Link](https://www.youtube.com/watch?v=aBOrVRKK3fA)
- 
+[Link](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
+[Link](https://www.youtube.com/watch?v=xxGCVVtMVn4&ab_channel=code.talks%28ehem.DeveloperConference%29)
+
+
+## System Patterns
+[Link](https://www.youtube.com/watch?v=cqNGAo-9pUE&ab_channel=DrawingBoxes)
+[Link](https://www.youtube.com/watch?v=6-Wu178sOEE&ab_channel=DrawingBoxes)
+[Link](https://www.youtube.com/watch?v=wPwD9CQAGsk&ab_channel=Confluent)
+[Link](https://www.youtube.com/watch?v=TqhkWaeUN_8&ab_channel=DrawingBoxes)
+[Link](https://www.youtube.com/watch?v=tQw99alEVHo&ab_channel=DrawingBoxes)
+[Link](https://www.youtube.com/watch?v=vS7sCJ1uezY&ab_channel=DrawingBoxes)
+[Link](https://mattilehtinen.com/articles/4-most-important-software-development-principles-dry-yagni-kiss-and-sine/)
+[Link](https://www.youtube.com/watch?v=yFjzGRb8NOk&ab_channel=DrawingBoxes)
+
 ## UI/UX Design
 - [How to make any information-heavy design look less busy](https://uxmovement.medium.com/how-to-make-any-information-heavy-design-look-less-busy-79fe3808ebb)
 - [Thumb-friendly design: Optimizing mobile UI for one-handed use](https://medium.com/@uxandyouti/thumb-friendly-design-optimizing-mobile-ui-for-one-handed-use-0f4acc446b3f)
@@ -314,6 +336,7 @@ Where to Use This Guide?
 - [YouTube - UX Design video 3](https://www.youtube.com/watch?v=GtffucAmM78)
 - [YouTube - UX Design video 4](https://www.youtube.com/watch?v=6U9iC-c15AI)
 - [link](https://uxdworld.com/best-practices-for-designing-empty-state-in-applications/)
+- [link](https://blog.kamathrohan.com/atomic-design-methodology-for-building-design-systems-f912cf714f53)
 
 ## QA
 - [QA YouTube 1](https://www.youtube.com/watch?v=21FgB_mk98Q&list=WL&index=8)
@@ -337,6 +360,7 @@ Where to Use This Guide?
 - [Tactical Domain-Driven Design](https://vaadin.com/blog/ddd-part-2-tactical-domain-driven-design)
 - [Spotify Agile at Scale](https://www.atlassian.com/agile/agile-at-scale/spotify)
 - [Link](https://www.youtube.com/watch?v=C6-ZXvACnkk)
+- [Link](https://www.youtube.com/watch?v=cz7h2WO5Tk4&ab_channel=DrawingBoxes)
 
 ## AI
 - [AI YouTube 1](https://www.youtube.com/watch?v=6dy0A_6dhVQ)
@@ -462,6 +486,20 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=GFo5KPaY-zU&ab_channel=PhilippLackner)
 - [Link](https://medium.com/@ramadan123sayed/kotlin-generics-the-ultimate-guide-with-practical-examples-ca3f5ca557e7)
 - [Link](https://medium.com/@ramadan123sayed/mastering-inline-functions-in-kotlin-deep-dive-into-inline-crossinline-and-noinline-with-generic-c135052a0ea4)
+- [Link](https://proandroiddev.com/the-val-property-immutable-in-kotlin-2e4cf49207d0)
+- [Link](https://medium.com/@ramadan123sayed/kotlin-reflection-a-comprehensive-guide-f00417f2f521)
+- [Link](https://medium.com/@ramadan123sayed/returning-multiple-values-in-kotlin-using-pair-and-triple-with-destructuring-declarations-a570d7a4c343)
+- [Link](https://www.youtube.com/watch?v=xAslJ-f9PWs&ab_channel=PhilippLackner)
+- [Link](https://medium.com/@domen.lanisnik/guide-to-foreground-services-on-android-9d0127dc8f9a)
+- [Link](https://medium.com/@ramadan123sayed/understanding-exceptions-in-kotlin-0757bd6ee528)
+- [Link](https://www.youtube.com/watch?v=dzUc9vrsldM&ab_channel=PhilippLackner)
+- [Link](https://www.youtube.com/watch?v=EExSSotojVI&ab_channel=freeCodeCamp.org)
+- [Link](https://www.youtube.com/watch?v=HJIyjggCJBA&ab_channel=geeconconference)
+- [Link](https://www.youtube.com/playlist?list=PLEPx7DrqAqKARq9JOAS3Er8yECTLfxdUW)
+  
+## SDUI
+- [Link](https://getstream.io/blog/server-driven-compose-firebase/)
+ 
 
 ## Kotlin Professional 
 - [Video 1](https://www.youtube.com/watch?v=MA6-ONDlXWU)
@@ -502,6 +540,8 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=6moaoAJui_4)
 - [Link](https://www.youtube.com/watch?v=d_vP_wEnjT4)
 - [Link](https://www.youtube.com/watch?v=i1wysckHg2o)
+- [Link](https://www.youtube.com/watch?v=-M5c3dPSPxw&ab_channel=DaveLeeds)
+- [Link](http://youtube.com/watch?v=KFgb6l1PUJI&ab_channel=DaveLeeds)
 
 ## Coroutines
 - [Bridging the gap between coroutines, JVM threads, and concurrency problems](https://medium.com/androiddevelopers/bridging-the-gap-between-coroutines-jvm-threads-and-concurrency-problems-864e563bd7c)
@@ -526,7 +566,8 @@ Where to Use This Guide?
 - [Link](https://getstream.io/blog/caution-runblocking-android/
 - [Link](https://www.youtube.com/watch?v=2uxsNJ0TdIM&ab_channel=Hydra)
 - [Link](https://www.javaadvent.com/2021/12/are-kotlin-coroutines-enough-to-replace-rxjava.html)
-
+- [Link](https://www.youtube.com/watch?v=WKrtITdAorg&ab_channel=Kt.Academy)
+- [Link](https://www.javaadvent.com/2021/12/are-kotlin-coroutines-enough-to-replace-rxjava.html)
 
 ## Flow/Channels
 - [Flow video 1](https://www.youtube.com/watch?v=fSB6_KE95bU)
@@ -549,6 +590,7 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=p6SagGRLYaE)
 - [Link](https://medium.com/@ramadan123sayed/kotlin-flow-comprehensive-guide-with-compose-integration-7c640aece690)
 - [Link](https://medium.com/@galou.minisini/advanced-kotlin-flow-cheat-sheet-for-android-engineer-cb8157d4f848)
+- [Link](https://www.youtube.com/watch?v=gYOxewYflHY&ab_channel=KotLand)
 
 
 ## Channels
@@ -616,6 +658,18 @@ Where to Use This Guide?
 - [Link](https://www.youtube.com/watch?v=T2CdEeReuUw&ab_channel=MohsenMashkour)
 - [Link](https://medium.com/@ramadan123sayed/composition-local-in-jetpack-compose-4d0a54afa67c)
 - [Link](https://medium.com/@ramadan123sayed/jetpack-compose-10-essential-tips-to-optimize-recomposition-and-understand-composable-lifecycles-f36844793e90)
+- [Link](https://medium.com/@ismailfatihbirak/jetpack-compose-ile-photo-picker-kullan%C4%B1m%C4%B1-6a22ba4f1d57)
+- [Link](https://proandroiddev.com/parallax-in-jetpack-compose-bf521244f49)
+- [Link](https://proandroiddev.com/jetpack-compose-tutorial-how-to-use-flowlayout-7216fe7cecde)
+- [Link](https://medium.com/@ramadan123sayed/jetpack-compose-10-essential-tips-to-optimize-recomposition-and-understand-composable-lifecycles-f36844793e90)
+- [Link](https://www.youtube.com/watch?v=eTVVT9cX4Bw&ab_channel=JovMit)
+- [Link](https://www.youtube.com/watch?v=R7GZMhakSBY&ab_channel=DroidconItaly)
+- [Link](https://www.youtube.com/watch?v=ShR7nOfCuaA&ab_channel=Kt.Academy)
+
+# Canvas 
+- [Link](https://www.youtube.com/watch?v=8LuWMYXW6nw&ab_channel=JurajKusnier)
+- [Link](https://medium.com/falabellatechnology/jetpack-compose-canvas-8aee73eab393)
+- [Link](https://proandroiddev.com/drawing-a-football-ground-with-jetpack-compose-9b0b11611a12)
 
 ## Clean Architecture
 - [Video: Clean Architecture Overview](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -667,6 +721,8 @@ Where to Use This Guide?
 - [Link](https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576)
 - [Link](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
 - [Link](https://proandroiddev.com/functional-data-mappers-4daf495192ed)
+- [Link](https://www.droidcon.com/2024/11/22/rewind-and-resolve-a-deep-dive-into-building-session-replay-for-android)
+- [Link](https://www.youtube.com/watch?v=ouBSPdvbzvw&ab_channel=WomenWhoCode)
 
 ## State
 - [Video 1](https://www.youtube.com/watch?v=V-s4z7B_Gnc)
@@ -719,6 +775,8 @@ Where to Use This Guide?
 - [YouTube: MVVM Patterns in Android](https://www.youtube.com/watch?v=T7A-JbJBjyg)
 - [Link](https://www.youtube.com/watch?v=wB8B7o1Jviw&ab_channel=TheChance)
 - [Link](https://www.youtube.com/watch?v=n-IN1GYanGo&ab_channel=TheChance&sttick=0)
+- [Link](https://www.droidcon.com/2020/11/17/when-viewmodels-go-to-die-saving-viewmodel-state/?video=481205520)
+- [Link](https://www.youtube.com/watch?v=ZTebNp-FyYY&ab_channel=PhilippLackner)
 
 ## Modules
 - [Navigating Multi-Module Jetpack Compose Applications](https://www.youtube.com/watch?v=PZBg5DIzNww)
@@ -817,9 +875,11 @@ Where to Use This Guide?
 - [KMM Video 7](https://www.youtube.com/watch?v=zDRlEp7r5i0)
 - [Multiplatform App Design with KMP and Compose](https://www.youtube.com/watch?v=EUTw0R7PpgY)
 - [Link](https://www.youtube.com/watch?v=WxCBzV4qUFw)
+- [Link](https://medium.com/@jacobras/android-ios-native-vs-flutter-vs-compose-multiplatform-7ef3d5ec2a56)
 
 # Compose Multiplatform
 - [Link](https://www.youtube.com/watch?v=F0BnN_uLp9A&ab_channel=PhilippLackner)
+- [Compose KMM Video](https://www.youtube.com/watch?v=g4XSWQ7QT8g)
 
 
 ## Swift for Android Developers
@@ -848,9 +908,7 @@ Where to Use This Guide?
 - [YouTube: Swift for Android Developers](https://www.youtube.com/watch?v=RbPLXjRkjZo)
 - [YouTube: Swift vs Kotlin](https://www.youtube.com/watch?v=l7obVQObdRM)
 - [swiftui](https://www.youtube.com/watch?v=udXfSKzoPyc&ab_channel=FlowritesCode)
-
-## Compose KMM
-- [Compose KMM Video](https://www.youtube.com/watch?v=g4XSWQ7QT8g)
+- [cheatsheet](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
 
 ## Deep Linking
 - [Deep Linking in Android](https://www.youtube.com/watch?v=TZ6mR2T8Jlc)
@@ -871,6 +929,7 @@ Where to Use This Guide?
 - [TicketView - VIPULASRI](https://devlibrary.withgoogle.com/products/android/repos/vipulasri-TicketView)
 - [Dose Android - Waseef Akhtar](https://devlibrary.withgoogle.com/products/android/repos/waseefakhtar-dose-android)
 - [CI/CD YouTube Video](https://www.youtube.com/watch?v=bYi-nI1lfc0)
+- [CI/CD YouTube Video](https://www.youtube.com/watch?v=Fh4UyfqeB4Y&ab_channel=JovMit)
 
 ## Framework
 - [Realm Framework YouTube](https://www.youtube.com/watch?v=S58qPxdRW3c)
@@ -888,6 +947,8 @@ Where to Use This Guide?
 - [Security YouTube 1](https://www.youtube.com/watch?v=WlKj-UnX-s4&ab_channel=Bits%26Pixels)
 - [Security YouTube 2](https://www.youtube.com/shorts/tAAFooNRtSk)
 - [Security YouTube 2](https://www.youtube.com/watch?v=VQvfvXD3ec4&ab_channel=PhilippLackner)
+- [Security YouTube 2](https://proandroiddev.com/the-2-best-ways-to-secure-your-api-keys-in-android-projects-12f6a9939053)
+- [Security YouTube 2](https://www.youtube.com/watch?v=DZHn17qg5_Y&ab_channel=PhilippLackner)
 
 ## Server-Driven UI
 - [SDUI video 1](https://www.youtube.com/watch?v=vKql_QUfHV0)
@@ -928,6 +989,12 @@ Where to Use This Guide?
 - [Ivy Wallet GitHub](https://github.com/Ivy-Apps/ivy-wallet)
 - [TV Maniac GitHub](https://github.com/thomaskioko/tv-maniac)
 - [nowinandroid](https://github.com/android/nowinandroid)
+- [pro](https://github.com/igorescodro/alkaa/commit/9e58a6afd35e61bda65afd454ccecd784e5cd0a5)
+- [pro](https://github.com/Ivy-Apps/ivy-wallet)
+- [pro](https://github.com/ismailfatihbirak/MultiModuleCrypto)
+- [pro](https://github.com/mohsenoid/Rick-and-Morty)
+- [pro](https://github.com/the-android-factory/SimpleRick/tree/8a857b232ff3b28ddad4d50c4e62650c2def844a/app)
+- [pro](https://github.com/ilyasipek/easy-mvi?source=post_page-----f2aa1a842b73---------------------------------------)
 
 # Series
 - [swiftui](https://www.youtube.com/playlist?list=PLdTv9pW1I2b20IhYdF6iDhLB6XYyxREgt)
@@ -988,6 +1055,9 @@ Sold
 [video](https://www.youtube.com/watch?v=ambfpiw8YTg&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=90&ab_channel=TheChance)
 [video](https://www.youtube.com/watch?v=YltYV_pNn34&list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc&index=91&ab_channel=TheChance)
 [video](https://www.youtube.com/watch?v=TYsV3nZGwZk&ab_channel=MohsenMashkour)
+[video](https://www.youtube.com/watch?v=vmT0SScA2lA&list=PL0wwgJrZccZuBm5K8Z0Hl6cUeGQdLL712&index=30&ab_channel=Landofcoding)
+[video](https://www.youtube.com/watch?v=7zrf6GdcIQQ&ab_channel=Landofcoding)
+[video](https://www.youtube.com/watch?v=07ZdBCyh7sc&list=PL0wwgJrZccZuBm5K8Z0Hl6cUeGQdLL712&index=16&ab_channel=PhilippLackner)
 
 ## Testing
 - [video](https://www.youtube.com/watch?v=m4EcNVMDiz8&ab_channel=TheChance)
@@ -1007,7 +1077,22 @@ Sold
 - [video](https://www.youtube.com/watch?v=JaIeeGqsO9M&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=6&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
 - [video](https://www.youtube.com/watch?v=W5w-5EK94wc&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&index=7&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
 - [video](https://www.youtube.com/watch?v=W5w-5EK94wc&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
-
+- [video](https://www.youtube.com/playlist?list=PLqew6vQ7CzHJ6YC8HUx3k1VINanVr56_d)
+- [video](https://jossiwolf.medium.com/leveraging-kotlin-for-tests-311bfd8335ee)
+- [video](hhttps://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
+- [video](hhttps://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+- [video](hhttps://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.reqots18y)
+- [video](hhttps://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+- [video](hhttps://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+- [video](https://www.youtube.com/watch?v=ndv-Zuphr6I&ab_channel=JovMit)
+- [video](https://sergiosastre.hashnode.dev/an-introduction-to-snapshot-testing-on-android-in-2021)
+- [video](https://www.youtube.com/watch?v=StdRvEFyivQ&ab_channel=KApps)
+- [video](https://www.youtube.com/watch?v=BBb6hv5XLQw&ab_channel=CharfaouiYounes)
+- [video](https://www.youtube.com/watch?v=g1Fl5qiH0F4&ab_channel=TariqElouzeh)
+- [video](https://www.youtube.com/watch?v=YzFvU2jLA54&ab_channel=WomenWhoCode)
+- [video](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
+- [video](https://www.youtube.com/playlist?list=PLqew6vQ7CzHIUNy7VjCG8-N0Z2xjT7qrr)
+  
 # Design pattern
 - [video](https://www.youtube.com/watch?v=8OitfyFqboA&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
 - [video](https://www.youtube.com/watch?v=-9fFuFkuQeU&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
@@ -1017,7 +1102,12 @@ Sold
 - [video](https://www.youtube.com/watch?v=nEMbvFTy54Y&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
 - [video](https://www.youtube.com/watch?v=c5G6r8_r80s&ab_channel=Metigator%7C%D8%B9%D8%B5%D8%A7%D9%85%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%86%D8%A8%D9%8A)
 - [video](https://dev.to/lovis/gang-of-four-patterns-in-kotlin---slight-return)
-
+- [video](https://www.youtube.com/watch?v=kE5M6bwruhw&ab_channel=Devoxx)
+- [video](https://maximilianocontieri.com/singleton-the-root-of-all-evil)
+- [video](https://www.youtube.com/watch?v=tAuRQs_d9F8&ab_channel=NeetCode)
+  
+# GIT
+- [video](https://medium.com/@ramadan123sayed/a-comprehensive-guide-to-git-and-github-from-beginner-to-advanced-with-practical-use-cases-8e1ad98b48db)
 
 # Resources 
 ## Courses
@@ -1082,6 +1172,11 @@ Sold
 - [Debate YouTube 1](https://youtu.be/krSkweSY8c0?feature=shared)
 - [Debate YouTube 2](https://youtu.be/FnpFNZG3ZPE?feature=shared)
 - [Debate YouTube 3](https://youtu.be/e99el1gavJs?feature=shared)
+- [Rest](https://www.youtube.com/watch?v=qbLc5a9jdXo&ab_channel=CalebCurry)
+- [JSON](https://jsonapi.org/)
+- [Android studio tips](https://www.youtube.com/watch?v=Xq4n3lFnd34&ab_channel=PhilippLackner)
+- [code basics](https://www.youtube.com/watch?v=06h470AiBZ4&ab_channel=%D8%BA%D8%B1%D9%8A%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%7C%7CGhareebElshaikh)
+
 
 # Islam systems 
 - [L1](https://www.youtube.com/playlist?list=PLF8wQ8_AW0Lzi-Tm29aQvehom2LCnHZ25)
